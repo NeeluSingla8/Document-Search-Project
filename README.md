@@ -1,21 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @NeeluSingla8
- Watch 1
-  Star 0
-  Fork 1 Gaurangi19/Document-search
- Code  Issues 0  Pull requests 1  Wiki  Pulse  Graphs
-Branch: master Find file Copy pathDocument-search/README.md
-967a7ae  28 days ago
-@Gaurangi19 Gaurangi19 Create README.md
-1 contributor
-RawBlameHistory     36 lines (20 sloc)  1.38 KB
-Document-search
-
 Document-search project to check if particular documents are accessible on Google using Rake implementation and Google Search API.
 
 Prerequisites
